@@ -46,6 +46,7 @@ const resolvers = {
     },
 
     durationInSenconds: ({length}) => length,
+  },
   Module:{
     durationInSenconds: ({length}) => length,
   }
